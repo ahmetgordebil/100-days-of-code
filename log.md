@@ -31,3 +31,13 @@
 **Link(s) to work**
 
 1. [FreeCodeCamp-Basic Data Structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)
+
+### Day 4: May 28 2020, Wednesday
+
+**Today's Progress**: I completed the second challenge of freeCodeCamp's responsive web design projects and finished the design of third challenge (a landing page). I also coded something from book EloquentJS.
+
+**Thoughts** Eloquent JS is a powerful source, but it prevents me to learn faster. Instead, I use it to polish things I've learned (to be honest, things that I believe I've learned). Currently working on redux, I will progress in fcc course tomorrow.
+
+**Link(s) to work**
+
+1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)/(https://codepen.io/snipbyte/pen/YzyoVeM)
