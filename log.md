@@ -41,3 +41,14 @@
 **Link(s) to work**
 
 1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)/(https://codepen.io/snipbyte/pen/YzyoVeM)
+
+### Day 5: May 29 2020, Wednesday
+
+**Today's Progress**: I completed the third challenge of freeCodeCamp's responsive web design projects and almost completed the regex course. I also keep reading/practicing EloquentJS.
+
+**Thoughts** I always loved theory more than experiment but this is not the case for programming. Things I "understand" in theory part is very different when you start to use it. Therefore, I love to use project tutorials. But this situation makes me "shrink" in knowledge base. I need more balance on learning-practicing chart. I'm currently working on it.
+
+**Link(s) to work**
+
+1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)/(https://codepen.io/snipbyte/pen/XWmLQab)
+1. [FreeCodeCamp-Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
