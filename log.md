@@ -51,4 +51,16 @@
 **Link(s) to work**
 
 1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)/(https://codepen.io/snipbyte/pen/XWmLQab)
-1. [FreeCodeCamp-Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+2. [FreeCodeCamp-Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+
+### Day 6: May 30 2020, Thursday
+
+**Today's Progress**: I completed the fourth challenge of freeCodeCamp's responsive web design projects, regex and accesibility courses.
+
+**Thoughts** Regex is easy to understand but it's a very powerful tool(I guess). I want the business and e-commerce websites to be my strong suit, so website practices are always useful for me. I think I need to take a break from learning javascript with games and focus more on the books and theory.
+
+**Link(s) to work**
+
+1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+2. [FreeCodeCamp-Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+3. [FreeCodeCamp - Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
