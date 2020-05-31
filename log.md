@@ -32,7 +32,7 @@
 
 1. [FreeCodeCamp-Basic Data Structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)
 
-### Day 4: May 28 2020, Wednesday
+### Day 4: May 28 2020, Thursday
 
 **Today's Progress**: I completed the second challenge of freeCodeCamp's responsive web design projects and finished the design of third challenge (a landing page). I also coded something from book EloquentJS.
 
@@ -42,7 +42,7 @@
 
 1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)/(https://codepen.io/snipbyte/pen/YzyoVeM)
 
-### Day 5: May 29 2020, Wednesday
+### Day 5: May 29 2020, Friday
 
 **Today's Progress**: I completed the third challenge of freeCodeCamp's responsive web design projects and almost completed the regex course. I also keep reading/practicing EloquentJS.
 
@@ -53,7 +53,7 @@
 1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)/(https://codepen.io/snipbyte/pen/XWmLQab)
 2. [FreeCodeCamp-Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
 
-### Day 6: May 30 2020, Thursday
+### Day 6: May 30 2020, Saturday
 
 **Today's Progress**: I completed the fourth challenge of freeCodeCamp's responsive web design projects, regex and accesibility courses.
 
@@ -64,3 +64,15 @@
 1. [FreeCodeCamp-Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 2. [FreeCodeCamp-Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
 3. [FreeCodeCamp - Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
+
+### Day 7: May 31 2020, Sunday
+
+**Today's Progress**: I completed the fourth challenge of freeCodeCamp's responsive web design projects(details and css included), debugging and basic data structures courses.
+
+**Thoughts** Data structures have a weird learning curve. No matter how much I understand it, it always falls short. This is the subject that requires most of the attention and practice I believe. Other than that, 1 step left to get responsive design certificate, which I subjectively value highly.
+
+**Link(s) to work**
+
+1. [FreeCodeCamp- Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)/(https://codepen.io/snipbyte/pen/oNjKObb)
+2. [FreeCodeCamp- Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
+3. [FreeCodeCamp- Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
