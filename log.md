@@ -76,3 +76,13 @@
 1. [FreeCodeCamp- Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)/(https://codepen.io/snipbyte/pen/oNjKObb)
 2. [FreeCodeCamp- Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
 3. [FreeCodeCamp- Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
+
+### Day 8: June 1 2020, Sunday
+
+**Today's Progress**: I completed whatever left from basic data structures courses. Other than that, I focused more on the theories instead of coding. I spend around 1 hour of coding on fCC course and practices in EloquentJS.
+
+**Thoughts** I guess a good foundation needs many repeat but only coding is not enough. I will focus on projects for a while this week, so I thought it would be better to start the week with study instead of actual coding.
+
+**Link(s) to work**
+
+1. [FreeCodeCamp- Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
