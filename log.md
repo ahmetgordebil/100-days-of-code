@@ -77,7 +77,7 @@
 2. [FreeCodeCamp- Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
 3. [FreeCodeCamp- Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
 
-### Day 8: June 1 2020, Sunday
+### Day 8: June 1 2020, Monday
 
 **Today's Progress**: I completed whatever left from basic data structures courses. Other than that, I focused more on the theories instead of coding. I spend around 1 hour of coding on fCC course and practices in EloquentJS.
 
@@ -86,3 +86,14 @@
 **Link(s) to work**
 
 1. [FreeCodeCamp- Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
+
+### Day 9: June 2 2020, Sunday
+
+**Today's Progress**: Not much coding, much more focus on data structures. Finalized the layout of my side-project's website.
+
+**Thoughts** I kept working on data structures today. Being unable to tell what to do a computer (or making too little mistakes) upsets me. Much more fluency needed.
+On the other hand, art was never my strong suit and designing is another thing I need to learn on top of coding.
+
+**Link(s) to work**
+--Book : EloquentJS
+--Youtube: Javascript, Understanding the Weird Parts
